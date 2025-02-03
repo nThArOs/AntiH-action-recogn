@@ -13,10 +13,11 @@ videomae_finetune.py (train)
 
 ### Data to downloads
 
-weight ()
+weight (Already trained and ready to use weight)
 
-Antihpert-gre
+Antihpert-gre (Anti Hpert dataset cut into small video clip, there are total 22 difference operations and 2500 videos)
 
+--- Same dataset but the compressed representation
 compressed
 
 compressed_antihpert-gre
