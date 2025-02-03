@@ -13,7 +13,7 @@ videomae_finetune.py (train)
 
 ### Data to downloads
 
-weight
+weight ()
 
 Antihpert-gre
 
