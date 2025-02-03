@@ -11,6 +11,8 @@ inference_finetuned_model (test)
 
 videomae_finetune.py (train)
 
+weight
+
 
 ## Usage
 
