@@ -3,7 +3,13 @@ A quick code allowing to train and run an VIDEOMAE acttion classification algori
 
 ## Introduction
 
-### Conversion of some operators
+### Code details
+
+Vid_compression.py
+
+inference_finetuned_model (test)
+
+videomae_finetune.py (train)
 
 
 ## Usage
