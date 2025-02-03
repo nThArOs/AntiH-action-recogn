@@ -11,7 +11,15 @@ inference_finetuned_model (test)
 
 videomae_finetune.py (train)
 
+### Data to downloads
+
 weight
+
+Antihpert-gre
+
+compressed
+
+compressed_antihpert-gre
 
 
 ## Usage
