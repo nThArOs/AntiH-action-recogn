@@ -13,6 +13,8 @@ videomae_finetune.py (train)
 
 ### Data to downloads
 
+https://zenodo.org/records/14825645
+
 weight (Already trained and ready to use weight)
 
 Antihpert-gre (Anti Hpert dataset cut into small video clip, there are total 22 difference operations and 2500 videos)
